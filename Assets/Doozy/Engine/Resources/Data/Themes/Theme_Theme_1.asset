@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a151aae416b497c9eaea8aa5ac1c555, type: 3}
+  m_Name: Theme_Theme_1
+  m_EditorClassIdentifier: 
+  m_themeName: Theme_1
+  SerializedGuid: 8d521d99c684ec4a81a34db7f7d34994
+  m_activeVariant:
+    m_variantName: Theme_1
+    SerializedGuid: 5e601b3daceb0a4f9d52ee6ca86208b9
+    Colors:
+    - m_color: {r: 1, g: 0, b: 0, a: 1}
+      SerializedGuid: 77586498338019479d0fcc18b946bd38
+    - m_color: {r: 1, g: 0.9813727, b: 0, a: 1}
+      SerializedGuid: e19771b983495d4ea59ff4fa2eb42725
+    - m_color: {r: 0.11645913, g: 1, b: 0, a: 1}
+      SerializedGuid: e7aef7b48ce1f9428cb720a4a59a9878
+    - m_color: {r: 1, g: 0.76711166, b: 0, a: 1}
+      SerializedGuid: 76e8776c9b68864b86987fa642707bd9
+    - m_color: {r: 0.3018868, g: 0, b: 0, a: 1}
+      SerializedGuid: fcc74ee2962ba349b4e2da55d6bff6a1
+    - m_color: {r: 0.78024495, g: 1, b: 0, a: 1}
+      SerializedGuid: 7072337eb22f9d4a8f07c9273e7d106e
+    - m_color: {r: 0, g: 1, b: 0.7704165, a: 1}
+      SerializedGuid: bcdae9ed258829408507c15b21b02cae
+    - m_color: {r: 0, g: 0.54512775, b: 0.7169812, a: 1}
+      SerializedGuid: c4a7f4c9b9c5874da1f35168a8c7984b
+    - m_color: {r: 0.5659275, g: 0, b: 1, a: 1}
+      SerializedGuid: 460e050e0f2d1d47bf87cd3b822cc88d
+    - m_color: {r: 1, g: 0.7267139, b: 0, a: 1}
+      SerializedGuid: b899e788d239df44aa247d4e66738388
+    - m_color: {r: 0, g: 1, b: 0.16900659, a: 1}
+      SerializedGuid: 1d7a218b43b2aa449b1ed2a4951467b8
+    - m_color: {r: 1, g: 0.9803922, b: 0, a: 1}
+      SerializedGuid: f90db627e4f7384ba273bbd37a3ff33e
+    - m_color: {r: 1, g: 0.63991976, b: 0, a: 1}
+      SerializedGuid: 44c99071fed07e458b9132586aeafcc7
+    - m_color: {r: 1, g: 0, b: 0, a: 1}
+      SerializedGuid: 85f5cb4cb57b7c458487e01506b52ddc
+    - m_color: {r: 0.03773582, g: 0, b: 0, a: 1}
+      SerializedGuid: c6f9cdaa9d28af49959bfe2bde799f1a
+    Sprites: []
+    Textures: []
+    Fonts: []
+    FontAssets: []
+  ColorLabels:
+  - m_label: Btn_Normal
+    SerializedGuid: 77586498338019479d0fcc18b946bd38
+  - m_label: Btn_Clicked
+    SerializedGuid: e19771b983495d4ea59ff4fa2eb42725
+  - m_label: Btn_Icon
+    SerializedGuid: e7aef7b48ce1f9428cb720a4a59a9878
+  - m_label: AnimatedRec_1
+    SerializedGuid: 76e8776c9b68864b86987fa642707bd9
+  - m_label: AnimatedRec_2
+    SerializedGuid: fcc74ee2962ba349b4e2da55d6bff6a1
+  - m_label: BackGround
+    SerializedGuid: 7072337eb22f9d4a8f07c9273e7d106e
+  - m_label: Title
+    SerializedGuid: bcdae9ed258829408507c15b21b02cae
+  - m_label: Title flicker_1
+    SerializedGuid: c4a7f4c9b9c5874da1f35168a8c7984b
+  - m_label: Title flicker_2
+    SerializedGuid: 460e050e0f2d1d47bf87cd3b822cc88d
+  - m_label: Best Score
+    SerializedGuid: b899e788d239df44aa247d4e66738388
+  - m_label: Rank
+    SerializedGuid: 1d7a218b43b2aa449b1ed2a4951467b8
+  - m_label: Msg body
+    SerializedGuid: f90db627e4f7384ba273bbd37a3ff33e
+  - m_label: Msg Title
+    SerializedGuid: 44c99071fed07e458b9132586aeafcc7
+  - m_label: Panels
+    SerializedGuid: 85f5cb4cb57b7c458487e01506b52ddc
+  - m_label: Panels Filling
+    SerializedGuid: c6f9cdaa9d28af49959bfe2bde799f1a
+  SpriteLabels: []
+  TextureLabels: []
+  FontLabels: []
+  FontAssetLabels: []
+  VariantsNames:
+  - Default
+  Variants:
+  - m_variantName: Default
+    SerializedGuid: 8b27379ed2c2af41804f5f2f613017f6
+    Colors:
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: 77586498338019479d0fcc18b946bd38
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: e19771b983495d4ea59ff4fa2eb42725
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: e7aef7b48ce1f9428cb720a4a59a9878
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: 76e8776c9b68864b86987fa642707bd9
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: fcc74ee2962ba349b4e2da55d6bff6a1
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: 7072337eb22f9d4a8f07c9273e7d106e
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: bcdae9ed258829408507c15b21b02cae
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: c4a7f4c9b9c5874da1f35168a8c7984b
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: 460e050e0f2d1d47bf87cd3b822cc88d
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: b899e788d239df44aa247d4e66738388
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: 1d7a218b43b2aa449b1ed2a4951467b8
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: f90db627e4f7384ba273bbd37a3ff33e
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: 44c99071fed07e458b9132586aeafcc7
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: 85f5cb4cb57b7c458487e01506b52ddc
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: c6f9cdaa9d28af49959bfe2bde799f1a
+    Sprites: []
+    Textures: []
+    Fonts: []
+    FontAssets: []
+  - m_variantName: Theme_1
+    SerializedGuid: 5e601b3daceb0a4f9d52ee6ca86208b9
+    Colors:
+    - m_color: {r: 1, g: 0, b: 0, a: 1}
+      SerializedGuid: 77586498338019479d0fcc18b946bd38
+    - m_color: {r: 1, g: 0.9813727, b: 0, a: 1}
+      SerializedGuid: e19771b983495d4ea59ff4fa2eb42725
+    - m_color: {r: 0.11645913, g: 1, b: 0, a: 1}
+      SerializedGuid: e7aef7b48ce1f9428cb720a4a59a9878
+    - m_color: {r: 1, g: 0.76711166, b: 0, a: 1}
+      SerializedGuid: 76e8776c9b68864b86987fa642707bd9
+    - m_color: {r: 0.3018868, g: 0, b: 0, a: 1}
+      SerializedGuid: fcc74ee2962ba349b4e2da55d6bff6a1
+    - m_color: {r: 0.78024495, g: 1, b: 0, a: 1}
+      SerializedGuid: 7072337eb22f9d4a8f07c9273e7d106e
+    - m_color: {r: 0, g: 1, b: 0.7704165, a: 1}
+      SerializedGuid: bcdae9ed258829408507c15b21b02cae
+    - m_color: {r: 0, g: 0.54512775, b: 0.7169812, a: 1}
+      SerializedGuid: c4a7f4c9b9c5874da1f35168a8c7984b
+    - m_color: {r: 0.5659275, g: 0, b: 1, a: 1}
+      SerializedGuid: 460e050e0f2d1d47bf87cd3b822cc88d
+    - m_color: {r: 1, g: 0.7267139, b: 0, a: 1}
+      SerializedGuid: b899e788d239df44aa247d4e66738388
+    - m_color: {r: 0, g: 1, b: 0.16900659, a: 1}
+      SerializedGuid: 1d7a218b43b2aa449b1ed2a4951467b8
+    - m_color: {r: 1, g: 0.9803922, b: 0, a: 1}
+      SerializedGuid: f90db627e4f7384ba273bbd37a3ff33e
+    - m_color: {r: 1, g: 0.63991976, b: 0, a: 1}
+      SerializedGuid: 44c99071fed07e458b9132586aeafcc7
+    - m_color: {r: 1, g: 0, b: 0, a: 1}
+      SerializedGuid: 85f5cb4cb57b7c458487e01506b52ddc
+    - m_color: {r: 0.03773582, g: 0, b: 0, a: 1}
+      SerializedGuid: c6f9cdaa9d28af49959bfe2bde799f1a
+    Sprites: []
+    Textures: []
+    Fonts: []
+    FontAssets: []
